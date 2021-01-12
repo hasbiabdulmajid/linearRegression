@@ -7,7 +7,7 @@ This code is my training with following 365 Data Science Course
 ## Dataset 
 The dataset that i used is dataset from 365 Data Science Course that contain 2 column (SAT,GPA)
 
-## Code
+## Library Used for Regression
 - linearRegression.ipynb
 this code is using OLS's stats model to do the regression
 - linearRegression2.ipynb
